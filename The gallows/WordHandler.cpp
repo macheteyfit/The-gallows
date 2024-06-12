@@ -1,0 +1,1 @@
+#include "WordHandler.h"
